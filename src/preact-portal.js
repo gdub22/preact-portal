@@ -46,7 +46,7 @@ export default class Portal extends Component {
 	}
 
 	render() {
-		return null;
+		return <div/>;
 	}
 }
 
